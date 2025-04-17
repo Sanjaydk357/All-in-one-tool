@@ -31,7 +31,7 @@ Welcome to **All-In-One**, a powerful, user-friendly web application that brings
 
 - **Frontend**: HTML, CSS (with Flask templating)
 - **Backend**: Python (Flask)
-- **Additional Libraries**: FFmpeg, PyMuPDF, moviepy, etc.
+- **Additional Libraries**: PyPDF2, moviepy, yt_dlp, etc.
 
 ## 🚀 Getting Started
 
