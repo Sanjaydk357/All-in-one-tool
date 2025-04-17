@@ -1,0 +1,8 @@
+yt-dlp
+Pillow
+PyPDF2
+pdf2docx
+docx2pdf
+Flask
+moviepy
+pydub
