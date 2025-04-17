@@ -1,6 +1,6 @@
 # 🎛️ All-In-One Tools Web App
 
-Welcome to **All-In-One**, a powerful, user-friendly web application that brings together a variety of tools to edit, convert, and create media files—all in one place!
+Welcome to **All-In-One**, a powerful, user-friendly web application that brings together a variety of tools to edit, convert, and create media files all in one place!
 
 ## ✨ Features
 
@@ -41,8 +41,10 @@ Welcome to **All-In-One**, a powerful, user-friendly web application that brings
    cd all-in-one-tools
    pip install -r requirements.txt
    python app.py
+   ```
 
 2. **📁 Project Structure**
+   ```
    all-in-one-tools/
       │
       ├── static/
@@ -51,3 +53,4 @@ Welcome to **All-In-One**, a powerful, user-friendly web application that brings
       ├── app.py
       ├── requirements.txt
       └── README.md
+   ```
